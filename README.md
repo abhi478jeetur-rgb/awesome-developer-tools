@@ -55,6 +55,7 @@
 - **Babel** - JavaScript compiler
 - **ESLint** - JavaScript linter
 - **Prettier** - Code formatter
+- **Payload Components** - 67 MIT typed Payload CMS blocks for Payload v3 + Next.js 15/16, installed as owned source with automated Pages, renderer, types, and admin import-map wiring: https://www.payload-components.xyz
 
 ## Learning Resources
 
