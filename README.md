@@ -50,6 +50,7 @@
 
 ## Development Tools
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Source-available agentic QA for natural-language web and mobile tests
 - **VS Code** - Powerful code editor
 - **Webpack** - Module bundler for JavaScript
 - **Babel** - JavaScript compiler
