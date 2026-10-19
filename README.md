@@ -50,6 +50,7 @@
 
 ## Development Tools
 
+- **[Glim](https://github.com/NeoPanic/Glim)** - macOS file viewer and basic text editor with Markdown, diagram and Git diff previews
 - **VS Code** - Powerful code editor
 - **Webpack** - Module bundler for JavaScript
 - **Babel** - JavaScript compiler
