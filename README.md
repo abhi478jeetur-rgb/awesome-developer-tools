@@ -55,6 +55,7 @@
 - **Babel** - JavaScript compiler
 - **ESLint** - JavaScript linter
 - **Prettier** - Code formatter
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** - macOS network diagnostics and per-app traffic, with JSON output, a TUI and a local MCP server
 
 ## Learning Resources
 
